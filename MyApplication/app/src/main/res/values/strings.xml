@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="bilmece_metni">Carsidan aldim 1 tane eve geldim 40 tane</string>
+    <string name="bilmece_cevabi">Pomegranate</string>
+    <string name="Saldir">Attack</string>
+    <string name="uyu">Sleep</string>
+    <string name="yemekye">Feed</string>
+</resources>

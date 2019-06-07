@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Çalışma</string>
+    <string name="Saldir">Saldır</string>
+    <string name="bilmece_cevabi">Nar</string>
+    <string name="bilmece_metni">Çarşıdan aldim 1 tane eve geldim 40 tane</string>
+    <string name="uyu">Uyu</string>
+    <string name="yemekye">Yemek Ye!</string>
+</resources>
